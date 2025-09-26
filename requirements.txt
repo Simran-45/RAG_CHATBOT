@@ -1,0 +1,12 @@
+streamlit
+sentence-transformers
+langchain
+langchain-community
+PyMuPDF
+python-docx
+huggingface-hub
+ctransformers
+groq
+chromadb
+pypdf
+dotenv
